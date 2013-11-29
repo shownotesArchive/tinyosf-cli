@@ -1,0 +1,26 @@
+{
+  "name": "tinyosf-cli",
+  "version": "0.0.1",
+  "description": "command line interface for tinyOSF.js",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:shownotes/tinyOSF-cli.git"
+  },
+  "keywords": [
+    "osf",
+    "parser",
+    "shownotes",
+    "podcast",
+    "cli"
+  ],
+  "author": "shownot.es",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shownotes/tinyOSF-cli/issues"
+  },
+  "dependencies": {
+    "tinyosf": "~0.3.7",
+    "optimist": "~0.6.0"
+  }
+}
